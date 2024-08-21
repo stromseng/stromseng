@@ -13,7 +13,7 @@
 
 <h3>⚡ Activity</h3>
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/stromseng/personalWebPage/pull/16) in [stromseng/personalWebPage](https://github.com/stromseng/personalWebPage)
+1. ❗ Opened issue [#1](https://github.com/Vanilla-OS/vib-vscode-ext/issues/1) in [Vanilla-OS/vib-vscode-ext](https://github.com/Vanilla-OS/vib-vscode-ext)
 <!--END_SECTION:activity-->
 
 
