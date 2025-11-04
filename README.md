@@ -11,13 +11,6 @@
 </p>
 
 
-<h3>⚡ Activity</h3>
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Vanilla-OS/vib-vscode-ext/issues/1) in [Vanilla-OS/vib-vscode-ext](https://github.com/Vanilla-OS/vib-vscode-ext)
-<!--END_SECTION:activity-->
-
-
-
 <!--
 **Thrywyn/Thrywyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
