@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-👨‍💻 All of my projects are available at [stromseng.dev](https://www.stromseng.dev/)
+👨‍💻 Personal webpage at [stromseng.dev](https://www.stromseng.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
