@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Magnus Alexander Strømseng</h2>
-<b>A Fullstack Developer and Informatics Student from Norway 🇳🇴 </b>
+<b>A Software Engineer from Norway 🇳🇴 </b>
 <br/>
 <br/>
 
